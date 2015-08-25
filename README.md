@@ -1,4 +1,4 @@
-My Awesome Book
+lucee-aws
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Lucee extension to provide simpler access to common AWS commands through the AWS SDK.
