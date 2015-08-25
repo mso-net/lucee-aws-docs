@@ -5,5 +5,5 @@
 * [Setup](setup.md)
    * [Using CommandBox (preferred method)](using_commandbox.md)
    * [Manual Installation](manual_installation.md)
-* Contributing
+* [Contributing](contributing.md)
 
